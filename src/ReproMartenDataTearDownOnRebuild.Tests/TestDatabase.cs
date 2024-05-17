@@ -1,6 +1,6 @@
 using Npgsql;
 
-namespace MartenDotNetTestTemplate.Tests;
+namespace ReproMartenDataTearDownOnRebuild.Tests;
 
 public class TestDatabase
 {
